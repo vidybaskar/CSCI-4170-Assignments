@@ -1,0 +1,8 @@
+Model: LSTM
+Window_Size: 7
+Baseline_MAE: 0.687081781719164
+Baseline_RMSE: 0.9252593388004672
+LSTM_MAE: 0.7040197615243368
+LSTM_RMSE: 0.869760683888119
+Training_Epochs: 50
+Notes: The LSTM model outperforms the naïve forecast. Future improvements may include hyperparameter tuning and integration of additional features.
